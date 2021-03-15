@@ -46,15 +46,6 @@
 			"location": "Mosta",
 			"date": "1st of March",
 			"time": "15:00"
-		},
-		{
-			"id": 7,
-			"title": "Task 7",
-			"description": "Description for task 7",
-			"location": "Mosta",
-			"date": "1st of March",
-			"time": "15:00"
-		}
-		
+		}		
 	]
 }
