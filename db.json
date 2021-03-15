@@ -38,6 +38,14 @@
 			"location": "Pembroke",
 			"date": "1st of February",
 			"time": "14:00"
+		},
+		{
+			"id": 6,
+			"title": "Task 6",
+			"description": "Description for task 6",
+			"location": "Mosta",
+			"date": "1st of March",
+			"time": "15:00"
 		}
 		
 	]
